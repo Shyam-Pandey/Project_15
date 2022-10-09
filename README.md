@@ -13,7 +13,6 @@
 
 ## Author and Contact
 - [Shyam Pandey](https://github.com/Shyam-Pandey)
-    - [Coder Community]()
 
 ## Features
 - It is single page Website with responsiveness.
